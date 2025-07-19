@@ -1,0 +1,14 @@
+body{
+    margin:0px;
+}
+nav li a{
+    text-decoration: none;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 15px;
+}
+figure img{
+    width: 50%;
+}
