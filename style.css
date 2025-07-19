@@ -12,3 +12,7 @@ nav li{
 figure img{
     width: 50%;
 }
+section{
+    background-color: aqua;
+    width: 50%;
+}
